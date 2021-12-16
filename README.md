@@ -14,7 +14,7 @@
 - 💬 Ask me about Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift Unit
 - 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: relationship, family, music, guitar, books, movies, series and football
+- ⚡ Fun fact: Relationship, family, music, guitar, books, movies, series and football
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
