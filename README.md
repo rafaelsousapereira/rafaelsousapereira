@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Sousa</h1>
 <h3 align="center">A passionate Junior Software Developer from Brazil</h3>
+<h3 align="center"> "Writing the future with code..."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
@@ -13,7 +14,7 @@
 - 💬 Ask me about Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift Unit
 - 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: Family, music, guitar, books, movies, series and football
+- ⚡ Fun fact: relationship, family, music, guitar, books, movies, series and football
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
@@ -53,7 +54,12 @@
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"" />
-  </p>
+  </p><hr>
+  <!-- Github Stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact"   alt="github stats">
+ 
+ <hr>
+<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
   
   
-
+ 
