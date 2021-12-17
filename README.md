@@ -6,15 +6,15 @@
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently no working on **[...](https://www.linkedin.com/in/rafaelofficial/)**
-- 🌱 I’m currently learning **Java, Spring, JS and Angular**
-- 👯 I’m looking to collaborate on **Java Projects**
-- 🤔 I’m looking for help with **[dev community](https://dev.to/)**
-- 👨‍💻 All of my projects are available at **[https://github.com/rafaelofficial](https://github.com/rafaelofficial)**
-- 💬 Ask me about **Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift**
-- 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**
-- 😄 Pronouns: **He/his**
-- ⚡ Fun fact: **Relationship, family, music, guitar, books, movies, series and football**
+- 🔭 I’m currently working on **[...](https://www.linkedin.com/in/rafaelofficial/)**;
+- 🌱 I’m currently learning **Java, Spring, JS and Angular**;
+- 👯 I’m looking to collaborate on **Java Projects**;
+- 🤔 I’m looking for help with **[dev community](https://dev.to/)**;
+- 👨‍💻 All of my projects are available at **[https://github.com/rafaelofficial](https://github.com/rafaelofficial)**;
+- 💬 Ask me about **Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift**;
+- 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**;
+- 😄 Pronouns: **He/his**;
+- ⚡ Fun fact: **Relationship, family, music, guitar, books, movies, series and football**;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
