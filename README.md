@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Java Projects**
 - 🤔 I’m looking for help with **[dev community](https://dev.to/)**
 - 👨‍💻 All of my projects are available at **[https://github.com/rafaelofficial](https://github.com/rafaelofficial)**
-- 💬 Ask me about **Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift Unit**
+- 💬 Ask me about **Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift**
 - 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**
 - 😄 Pronouns: **He/his**
 - ⚡ Fun fact: **Relationship, family, music, guitar, books, movies, series and football**
