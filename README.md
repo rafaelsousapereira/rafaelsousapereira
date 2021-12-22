@@ -27,12 +27,12 @@
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </p>
   
   <strong>Frontend:</strong>
   <p>
-  <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -58,10 +58,11 @@
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"" />
   </p><hr>
   <!-- Github Stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact"   alt="github stats">
- 
+  <div>                                                                                                                
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact"   alt="github stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelofficial&layout=compact&theme=github_dark" alt="github stats/>
+  </div>
  <hr>
-<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
-  
-  
+<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">  
+ 
  
