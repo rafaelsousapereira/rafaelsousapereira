@@ -22,7 +22,7 @@
   <a href="https://instagram.com/rafaelsousa.dev" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="rafaelsousa.dev" height="40" width="50" /></a>
   
   <h3 align="left">Languages and Tools:</h3>
-  <strong>Backend:</strong>
+  <strong>Stack Backend:</strong>
   <p>
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,7 +31,7 @@
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </p>
   
-  <strong>Frontend:</strong>
+  <strong>Stack Frontend:</strong>
   <p>
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
