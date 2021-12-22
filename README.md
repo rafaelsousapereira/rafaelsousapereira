@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/rafaelofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-rafaelofficial" height="30" width="40" /></a>
-  <a href="https://instagram.com/rafaelsousa.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rafaelsousa.dev" height="30" width="40" /></a>
+  <a href="https://instagram.com/rafaelsousa.dev" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" alt="rafaelsousa.dev" height="40" width="50" /></a>
   
   <h3 align="left">Languages and Tools:</h3>
   <strong>Backend:</strong>
