@@ -57,12 +57,7 @@
   <img width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"" />
   </p><hr>
-  <!-- Github Stats -->
-  <div>                                                                                                                
+  <!-- Github Stats -->                     
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact"   alt="github stats"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelofficial&layout=compact&theme=github_dark" alt="github stats/>
-  </div>
- <hr>
-<img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">  
- 
- 
+  <hr>
+  <img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
