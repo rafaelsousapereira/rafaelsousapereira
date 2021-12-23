@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at **[https://github.com/rafaelofficial](https://github.com/rafaelofficial)**;
 - 💬 Ask me about **Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift**;
 - 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**;
-- 😄 Pronouns: **He/his**;
+- 😄 Pronouns: **He/Him**;
 - ⚡ Fun fact: **Relationship, family, music, guitar, books, movies, series and football**.
 
 <h3 align="left">Connect with me:</h3>
