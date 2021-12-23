@@ -6,7 +6,7 @@
 
 **Here are some ideas to get you started:**
 
-- 🔭 I’m currently working on **[...](https://www.linkedin.com/in/rafaelofficial/)**;
+- 🔭 I’m currently working on **[...](#)**;
 - 🌱 I’m currently learning **Java, Spring, JS and React**;
 - 👯 I’m looking to collaborate on **Java Projects**;
 - 🤔 I’m looking for help with **[dev community](https://dev.to/)**;
