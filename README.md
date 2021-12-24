@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
-**Here are some ideas to get you started:**
+**Here are some fun facts about me:**
 
 - 🔭 I’m currently working on **[...](#)**;
 - 🌱 I’m currently learning **Java, Spring, JS and React**;
