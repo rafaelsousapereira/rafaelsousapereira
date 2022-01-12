@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **[...](#)**;
 - 🌱 I’m currently learning: **Java, Spring, JS and React**;
 - 👯 I’m looking to collaborate on **Java Projects**;
-- 🤔 I’m looking for help with **[dev community](https://dev.to/)**;
+- 🤔 I’m looking for help with **[dev's community on Discord](https://discord.gg/hE5UwzDE)**;
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/rafaelofficial)**;
 - 💬 Ask me about anything **[here](https://www.linkedin.com/in/rafaelofficial/)**;
 - 📫 How to reach me **[here](rafael.sousa.pereira01@gmail.com)**;
