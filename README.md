@@ -7,12 +7,12 @@
 **Here are some fun facts about me:**
 
 - 🔭 I’m currently working on **[...](#)**;
-- 🌱 I’m currently learning **Java, Spring, JS and React**;
+- 🌱 I’m currently learning: **Java, Spring, JS and React**;
 - 👯 I’m looking to collaborate on **Java Projects**;
 - 🤔 I’m looking for help with **[dev community](https://dev.to/)**;
-- 👨‍💻 All of my projects are available at **[https://github.com/rafaelofficial](https://github.com/rafaelofficial)**;
-- 💬 Ask me about **Graduated in Systems Analysis and Development from Universidade São Francisco, Campus Campinas - Swift**;
-- 📫 How to reach me: **rafael.sousa.pereira01@gmail.com**;
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/rafaelofficial)**;
+- 💬 Ask me about anything **[here](https://www.linkedin.com/in/rafaelofficial/)**;
+- 📫 How to reach me **[here](rafael.sousa.pereira01@gmail.com)**;
 - 😄 Pronouns: **He/Him**;
 - ⚡ Fun fact: **Relationship, family, music, guitar, books, movies, series and football**.
 
