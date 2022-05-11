@@ -6,7 +6,7 @@
 
 **Here are some fun facts about me:**
 
-- 🔭 I’m currently working on **[...](#)**;
+- 🔭 I’m currently working on **[Rafael's](https://rafaelofficial.github.io/)**;
 - 🌱 I’m currently learning: **Java, Spring, JS and React**;
 - 👯 I’m looking to collaborate on **Java Projects**;
 - 🤔 I’m looking for help with **[dev's community on Discord](https://discord.gg/hE5UwzDE)**;
