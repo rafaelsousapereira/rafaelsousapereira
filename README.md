@@ -6,7 +6,7 @@
 ### **Here are some fun facts about me:**
 
   - 🔭 I’m currently working on **[Rafael's](https://rafaelofficial.github.io/)**;
-  - 🌱 I’m currently learning: **Java, Spring, JS and React**;
+  - 🌱 I’m currently learning: **Spring and React**;
   - 📫 How to reach me **[contact here](mailto:rafael.sousa.pereira01@gmail.com)**;
   - ⚡ Fun fact: **Music, Guitar and Football**.
   <h2 align="left">Social Media:</h2>
