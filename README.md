@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
-## **Here are some fun facts about me:**
+### **Here are some fun facts about me:**
 
   - 🔭 I’m currently working on **[Rafael's](https://rafaelofficial.github.io/)**;
   - 🌱 I’m currently learning: **Java, Spring, JS and React**;
