@@ -1,20 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A passionate Software Developer from Brazil!</h3>
-<h3 align="center"> "Writing the future with code..."</h3>
+<h1 align="center">Hi 👋 I'm Rafael</h1>
+<h2 align="center">A passionate Software Developer from Brazil!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
-**Here are some fun facts about me:**
+## **Here are some fun facts about me:**
 
   - 🔭 I’m currently working on **[Rafael's](https://rafaelofficial.github.io/)**;
   - 🌱 I’m currently learning: **Java, Spring, JS and React**;
-  - 👯 I’m looking to collaborate on **Java Projects**;
-  - 🤔 I’m looking for help with **[dev's community on Discord](https://discord.gg/hE5UwzDE)**;
-  - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/rafaelofficial?tab=repositories)**;
-  - 💬 Ask me about anything **[here](https://www.linkedin.com/in/rafaelofficial/)**;
   - 📫 How to reach me **[contact here](mailto:rafael.sousa.pereira01@gmail.com)**;
-  - ⚡ Fun fact: **Relationship, family, music, guitar, books, movies, series and football**.
-  
+  - ⚡ Fun fact: **Music, Guitar and Football**.
   <h2 align="left">Social Media:</h2>
   <p align="left"> 
   <a href="https://www.linkedin.com/in/rafaelofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-rafaelofficial" height="60" width="60" /></a>
