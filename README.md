@@ -11,8 +11,8 @@
   - ⚡ Fun fact: **Music, Guitar and Football**.
   <h2 align="left">Social Media:</h2>
   <p align="left"> 
-  <a href="https://www.linkedin.com/in/rafaelofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-rafaelofficial" height="50" width="50" /></a>
-  <a href="https://instagram.com/rafaelsousa.dev" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg"       alt="rafaelsousa.dev" height="70" width="70" /></a>
+  <a href="https://www.linkedin.com/in/rafaelofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-rafaelofficial" height="40" width="40" /></a>
+  <a href="https://instagram.com/rafaelsousa.dev" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg"       alt="rafaelsousa.dev" height="60" width="60" /></a>
   <hr>       
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact" alt="github stats"/>
   <hr>
