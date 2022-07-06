@@ -14,9 +14,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
 <a href="https://www.linkedin.com/in/rafaelofficial/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-## 💻Tech Stack
+## 💻Tech Stack:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-0e75b6.svg?style=flat&logo=react&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 
-## 📊GitHub Stats :
+## 📊GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelofficial&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
