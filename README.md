@@ -3,17 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
-### **Here are some fun facts about me:**
+## **Here are some fun facts about me:**
 
   - 🔭 I’m currently working on **[Rafael's](https://rafaelofficial.github.io/)**;
   - 🌱 I’m currently learning: **Spring and React**;
   - 📫 How to reach me **[contact here](mailto:rafael.sousa.pereira01@gmail.com)**;
   - ⚡ Fun fact: **Music, Guitar and Football**.
-  <h2 align="left">Social Media:</h2>
-  <p align="left"> 
-  <a href="https://www.linkedin.com/in/rafaelofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin-rafaelofficial" height="40" width="40" /></a>
-  <a href="https://instagram.com/rafaelsousa.dev" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg"       alt="rafaelsousa.dev" height="60" width="60" /></a>
-  <hr>       
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelofficial&show_icons=true&include_all_commits=true&theme=github_dark&count_private=true&layout=compact" alt="github stats"/>
-  <hr>
-  <img align="right" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge">
+  
+## <b>How to reach me:</b>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
+<a href="https://www.linkedin.com/in/rafaelofficial/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+## 💻Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-0e75b6.svg?style=flat&logo=react&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelofficial&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
