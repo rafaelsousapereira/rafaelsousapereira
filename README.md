@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/rafaelofficial/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## 💻Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-0e75b6.svg?style=flat&logo=react&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23FAD02C.svg?style=flat&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-0e75b6.svg?style=flat&logo=react&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 
 ## 📊GitHub Stats:
