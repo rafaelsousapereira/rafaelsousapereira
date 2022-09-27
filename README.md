@@ -5,8 +5,8 @@
 
 ## **Here are some fun facts about me:**
 
-  - 🔭 I’m currently working on **[Rafael's](https://rafaelofficial.github.io/)**;
-  - 🌱 I’m currently learning: **Spring and React**;
+  - 🔭 I’m currently working on **[BHUT](https://www.bhut.com.br/)**;
+  - 🌱 I’m currently learning: **Spring and NodeJS**;
   - 📫 How to reach me **[contact here](mailto:rafael.sousa.pereira01@gmail.com)**;
   - ⚡ Fun fact: **Music, Guitar and Football**.
   
