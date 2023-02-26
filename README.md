@@ -7,7 +7,6 @@
 
   - 🔭 I’m currently working on **[...](#)**;
   - 🌱 I’m currently learning: **Spring Boot and ReactJS**;
-  - 📫 How to reach me **[contact here](mailto:rafael.sousa.pereira01@gmail.com)**;
   - ⚡ Fun fact: **Music, Guitar and Sports**.
   
 ### <b>How to reach me:</b>
