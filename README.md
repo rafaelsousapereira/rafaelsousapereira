@@ -5,10 +5,10 @@
 
 ## **Here are some fun facts about me:**
 
-  - 🔭 I’m currently working on **[BHUT](https://www.bhut.com.br/)**;
-  - 🌱 I’m currently learning: **Spring and NodeJS**;
+  - 🔭 I’m currently working on **[...](#)**;
+  - 🌱 I’m currently learning: **Spring Boot and ReactJS**;
   - 📫 How to reach me **[contact here](mailto:rafael.sousa.pereira01@gmail.com)**;
-  - ⚡ Fun fact: **Music, Guitar and Football**.
+  - ⚡ Fun fact: **Music, Guitar and Sports**.
   
 ## <b>How to reach me:</b>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
