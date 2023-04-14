@@ -5,9 +5,9 @@
 
 ### **Here are some fun facts about me:**
 
-  - 🔭 I’m currently working on **[...](#)**;
-  - 🌱 I’m currently learning: **Spring Boot and ReactJS**;
-  - ⚡ Fun fact: **Music, Guitar and Sports**.
+  - 🔭 I’m currently working on **Personal Project**;
+  - 🌱 I’m currently learning: **Back End Development with Java and Spring Boot**;
+  - ⚡ Fun fact: **Listen Music, Player Guitar and Games**.
   
 ### <b>How to reach me:</b>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
