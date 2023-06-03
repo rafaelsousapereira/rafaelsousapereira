@@ -1,5 +1,5 @@
 <h1>Hi there! 👋 I'm Rafael</h1>
-<h3>A passionate Full Stack Developer from Brazil!</h3>
+<h3>A passionate Java Backend Developer from Brazil!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
