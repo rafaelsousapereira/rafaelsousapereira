@@ -6,7 +6,7 @@
 ### **Here are some fun facts about me:**
 
   - 🔭 I’m currently working on **Personal Project**;
-  - 🌱 I’m currently learning: **Spring Boot and React**;
+  - 🌱 I’m currently learning: **Java, Spring Boot and React as well**;
   - ⚡ Fun fact: **Listen Music, Player Guitar and Games**.
   
 ### <b>How to reach me:</b>
