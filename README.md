@@ -5,8 +5,8 @@
 
 ### **Here are some fun facts about me:**
 
-  - 🔭 I’m currently working on: **Open to Work**;
-  - 🌱 I’m currently learning: **Cloud Computing**;
+  - 🔭 I’m currently working on: **Open to Work**.
+  - 🌱 I’m currently learning: **Cloud Computing**.
   - ⚡ Fun fact: **I love my family, music, guitar & gaming**.
   
 ### <b>How to reach me:</b>
