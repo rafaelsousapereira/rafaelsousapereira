@@ -1,13 +1,13 @@
 <h1>Hi there! 👋 I'm Rafael</h1>
-<h3>A passionate Java Backend Developer from Brazil!</h3>
+<h3>A passionate Software Developer from Brazil!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelofficial22&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelofficial" /> </p>
 
 ### **Here are some fun facts about me:**
 
-  - 🔭 I’m currently working on **Personal Project**;
-  - 🌱 I’m currently learning: **Java, Spring Boot and React as well**;
-  - ⚡ Fun fact: **Listen Music, Player Guitar and Games**.
+  - 🔭 I’m currently working on: **Open to Work**;
+  - 🌱 I’m currently learning: **Cloud Computing**;
+  - ⚡ Fun fact: **I love my family, music, guitar & gaming**.
   
 ### <b>How to reach me:</b>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
