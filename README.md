@@ -9,8 +9,8 @@
   - 🌱 I’m currently learning: **Cloud Computing.**
   - ⚡  Fun fact: **I love my family, listening to music, playing the electric guitar and playing games.**
   
-### <b>How to reach me:</b>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com)
+<!-- ### <b>How to reach me:</b>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andressasantosp0@gmail.com)](mailto:rafael.sousa.pereira01@gmail.com) -->
 
 ### My stack:
 
