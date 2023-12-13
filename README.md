@@ -12,11 +12,15 @@
 ### My Tech Stack:
 
 #### Front-End:
-[![Tecnologias](https://skills.thijs.gg/icons?i=html,css,js,react,figma,git,styledcomponents,bootstrap)](https://skills.thijs.gg)<br /> 
+[![Tecnologias](https://skills.thijs.gg/icons?i=html,css,js,react,figma,styledcomponents,bootstrap)](https://skills.thijs.gg)<br /> 
 
 #### Back-End:
-[![Tecnologias](https://skills.thijs.gg/icons?i=java,spring,nodejs,mysql,postgresql,sqlite,aws)](https://skills.thijs.gg)
+[![Tecnologias](https://skills.thijs.gg/icons?i=java,spring,nodejs,mysql,postgresql,sqlite,mongo)](https://skills.thijs.gg)
+
+#### Others Tech:
+[![Tecnologias](https://skills.thijs.gg/icons?i=git,github,docker,aws,heroku,netlify,vercel)](https://skills.thijs.gg)
 
 ### 📊 GitHub Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsousapereira&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact) ![Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelsousapereira&theme=gotham&hide_border=true)
+<p align="center">Made with 💜 by <a href="https://github.com/rafaelsousapereira"</a>Rafael Sousa Pereira</p>
 <p align="right"> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"></p>
