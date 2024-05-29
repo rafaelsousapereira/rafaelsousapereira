@@ -10,6 +10,7 @@
   🌱 I’m currently learning: **At Rocketseat.**<br />
   ⚡  Fun fact: **I love my family, listening to music, playing the electric guitar and playing games.**
   
+  <!--- 
   ### <p>My Tech Stack:</p>
   
   #### Front-End:
@@ -20,7 +21,7 @@
   
   #### Others Tech:
   [![Tecnologias](https://skills.thijs.gg/icons?i=git,github,docker,aws,heroku,netlify,vercel)](https://skills.thijs.gg)
-  
+  -->
   ### <p>📊  GitHub Stats:</p>
   ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsousapereira&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact) ![Github Stats](https://github-readme-stats.vercel.app/api?username=rafaelsousapereira&theme=gotham&hide_border=true)
   <p align="center">Made with 💜 by <a href="https://github.com/rafaelsousapereira"</a>Rafael Sousa Pereira</p>
