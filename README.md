@@ -1,13 +1,13 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Rafael 🚀</h1>
-  <h3>👨‍💻 A passionate Full-Stack Developer from Brazil!</h3>
+  <h3>👨‍💻 A passionate Backend Developer from Brazil!</h3>
   
   <p><img src="https://komarev.com/ghpvc/?username=rafaelsousapereira&label=Profile%20views&color=0e75b6&style=flat" alt="Count profile views" /></p>
   
   ### <p>**Here are some fun facts about me:**</p>
   
-  🔭 I’m currently working on: **Open for work and freelancers.**<br />
-  🌱 I’m currently learning: **At Rocketseat.**<br />
+  🔭 I’m currently working on: **Mobiis**<br />
+  🌱 I’m currently learning: **AlgaWorks.**<br />
   ⚡  Fun fact: **I love my family, listening to music, playing the electric guitar and playing games.**
   
   <!--- 
