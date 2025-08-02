@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Rafael 🚀</h1>
-  <h3>👨‍💻 A passionate Backend Developer from Brazil!</h3>
+  <h3>👨‍💻 A passionate Backend Developer from Brasil!</h3>
   
   <p><img src="https://komarev.com/ghpvc/?username=rafaelsousapereira&label=Profile%20views&color=0e75b6&style=flat" alt="Count profile views" /></p>
   
